@@ -30,7 +30,7 @@ gdzieśtam daej
 1. coś innego
     1. tak
 
-[to jest yt](www.youtube.com)
+[to jest yt](https://www.youtube.com)
 
 # Nagłówek 2 
 ![tu miało być zdięceie](example.png)
